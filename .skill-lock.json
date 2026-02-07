@@ -1,0 +1,691 @@
+{
+  "version": 3,
+  "skills": {
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
+      "installedAt": "2026-02-07T12:52:05.913Z",
+      "updatedAt": "2026-02-07T12:52:10.410Z"
+    },
+    "webapp-testing": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/webapp-testing/SKILL.md",
+      "skillFolderHash": "74cb751576f9e9af2aedff47e67861ef26db2dc4",
+      "installedAt": "2026-02-07T12:55:37.892Z",
+      "updatedAt": "2026-02-07T13:05:10.891Z"
+    },
+    "next-best-practices": {
+      "source": "vercel-labs/next-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/next-skills.git",
+      "skillPath": "skills/next-best-practices/SKILL.md",
+      "skillFolderHash": "ad17eb27952b39a6ab0061bd50e8a2213b63a3ec",
+      "installedAt": "2026-02-07T12:56:00.647Z",
+      "updatedAt": "2026-02-07T13:03:17.707Z"
+    },
+    "audit-website": {
+      "source": "squirrelscan/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/squirrelscan/skills.git",
+      "skillPath": "audit-website/SKILL.md",
+      "skillFolderHash": "31da6765265037cf326e1c7d65250fc050c19ef1",
+      "installedAt": "2026-02-07T12:56:43.794Z",
+      "updatedAt": "2026-02-07T12:56:43.794Z"
+    },
+    "ui-ux-pro-max": {
+      "source": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill.git",
+      "skillPath": ".claude/skills/ui-ux-pro-max/SKILL.md",
+      "skillFolderHash": "986c64ad9b8e196a4a737c01872c2eda790daba1",
+      "installedAt": "2026-02-07T12:57:13.523Z",
+      "updatedAt": "2026-02-07T12:57:13.523Z"
+    },
+    "browser-use": {
+      "source": "browser-use/browser-use",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/browser-use/browser-use.git",
+      "skillPath": "skills/browser-use/SKILL.md",
+      "skillFolderHash": "d8e6e30ee58722bcd4fb1dd9ef91b60c5d89dbee",
+      "installedAt": "2026-02-07T12:57:59.372Z",
+      "updatedAt": "2026-02-07T12:57:59.372Z"
+    },
+    "frontend-design": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/frontend-design/SKILL.md",
+      "skillFolderHash": "928950704df8a8b885c03de5da626331e6f29cf8",
+      "installedAt": "2026-02-07T12:58:25.226Z",
+      "updatedAt": "2026-02-07T13:05:10.789Z"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "installedAt": "2026-02-07T12:58:38.706Z",
+      "updatedAt": "2026-02-07T12:58:38.706Z"
+    },
+    "python-performance-optimization": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-performance-optimization/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:02:19.267Z",
+      "updatedAt": "2026-02-07T13:09:39.879Z"
+    },
+    "next-cache-components": {
+      "source": "vercel-labs/next-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/next-skills.git",
+      "skillPath": "skills/next-cache-components/SKILL.md",
+      "skillFolderHash": "47429bd18c8a59fa5b7e9a656f71b728cf67ed5e",
+      "installedAt": "2026-02-07T13:03:17.731Z",
+      "updatedAt": "2026-02-07T13:03:17.731Z"
+    },
+    "next-upgrade": {
+      "source": "vercel-labs/next-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/next-skills.git",
+      "skillPath": "skills/next-upgrade/SKILL.md",
+      "skillFolderHash": "962598faa417cf3b6c03ec2e5cbe0aa0aeb2c4a9",
+      "installedAt": "2026-02-07T13:03:17.753Z",
+      "updatedAt": "2026-02-07T13:03:17.753Z"
+    },
+    "typescript-advanced-types": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/javascript-typescript/skills/typescript-advanced-types/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:04:23.916Z",
+      "updatedAt": "2026-02-07T13:09:40.241Z"
+    },
+    "doc-coauthoring": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/doc-coauthoring/SKILL.md",
+      "skillFolderHash": "d9df960e61fe2bafe9183e37de6f9f6b73b74087",
+      "installedAt": "2026-02-07T13:05:10.735Z",
+      "updatedAt": "2026-02-07T13:05:10.735Z"
+    },
+    "docx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/docx/SKILL.md",
+      "skillFolderHash": "f205dbd3e057dccac222685f76e3b410e34bc2f8",
+      "installedAt": "2026-02-07T13:05:10.763Z",
+      "updatedAt": "2026-02-07T13:05:10.763Z"
+    },
+    "pdf": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/pdf/SKILL.md",
+      "skillFolderHash": "6369f4649de69bd6857c9bc3b058a77206009238",
+      "installedAt": "2026-02-07T13:05:10.815Z",
+      "updatedAt": "2026-02-07T13:05:10.815Z"
+    },
+    "pptx": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/pptx/SKILL.md",
+      "skillFolderHash": "10b3d70962e489867ddfee7da92f7da6b0eccc4f",
+      "installedAt": "2026-02-07T13:05:10.840Z",
+      "updatedAt": "2026-02-07T13:05:10.840Z"
+    },
+    "theme-factory": {
+      "source": "anthropics/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/anthropics/skills.git",
+      "skillPath": "skills/theme-factory/SKILL.md",
+      "skillFolderHash": "007940e80de6ae577a87b2b343b1a5eae715df2b",
+      "installedAt": "2026-02-07T13:05:10.865Z",
+      "updatedAt": "2026-02-07T13:05:10.865Z"
+    },
+    "nextjs-app-router-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/frontend-mobile-development/skills/nextjs-app-router-patterns/SKILL.md",
+      "skillFolderHash": "09b5161a206bf7aaea11df7f4f960f6359680950",
+      "installedAt": "2026-02-07T13:09:38.959Z",
+      "updatedAt": "2026-02-07T13:09:38.959Z"
+    },
+    "react-state-management": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/frontend-mobile-development/skills/react-state-management/SKILL.md",
+      "skillFolderHash": "0e0b3bb098fe62d689e3b5ec5e80ce11f2a3c86c",
+      "installedAt": "2026-02-07T13:09:38.986Z",
+      "updatedAt": "2026-02-07T13:09:38.986Z"
+    },
+    "tailwind-design-system": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/frontend-mobile-development/skills/tailwind-design-system/SKILL.md",
+      "skillFolderHash": "acbec32115ca1776b32dad36c0c84587a4022d32",
+      "installedAt": "2026-02-07T13:09:39.015Z",
+      "updatedAt": "2026-02-07T13:09:39.015Z"
+    },
+    "embedding-strategies": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/llm-application-dev/skills/embedding-strategies/SKILL.md",
+      "skillFolderHash": "2378b6d2428267f273d491bd53e5f191865f7dfe",
+      "installedAt": "2026-02-07T13:09:39.042Z",
+      "updatedAt": "2026-02-07T13:09:39.042Z"
+    },
+    "hybrid-search-implementation": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/llm-application-dev/skills/hybrid-search-implementation/SKILL.md",
+      "skillFolderHash": "6d6e468a25bb2a85b038a030ab554038b82ac735",
+      "installedAt": "2026-02-07T13:09:39.069Z",
+      "updatedAt": "2026-02-07T13:09:39.069Z"
+    },
+    "prompt-engineering-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/llm-application-dev/skills/prompt-engineering-patterns/SKILL.md",
+      "skillFolderHash": "917219a41bf419588a14a4e9303ba93dcc41822b",
+      "installedAt": "2026-02-07T13:09:39.097Z",
+      "updatedAt": "2026-02-07T13:09:39.097Z"
+    },
+    "postmortem-writing": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/incident-response/skills/postmortem-writing/SKILL.md",
+      "skillFolderHash": "aad73148121986bbe0959cad754a8c1c0106295d",
+      "installedAt": "2026-02-07T13:09:39.125Z",
+      "updatedAt": "2026-02-07T13:09:39.125Z"
+    },
+    "github-actions-templates": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/cicd-automation/skills/github-actions-templates/SKILL.md",
+      "skillFolderHash": "414560172cc8181b6c17f6d2f5ffcda4716368dd",
+      "installedAt": "2026-02-07T13:09:39.152Z",
+      "updatedAt": "2026-02-07T13:09:39.152Z"
+    },
+    "secrets-management": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/cicd-automation/skills/secrets-management/SKILL.md",
+      "skillFolderHash": "7289e885d804a8b489f5349a5292dbdfe4c926ce",
+      "installedAt": "2026-02-07T13:09:39.182Z",
+      "updatedAt": "2026-02-07T13:09:39.182Z"
+    },
+    "database-migration": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/framework-migration/skills/database-migration/SKILL.md",
+      "skillFolderHash": "fefdb99f2b0236840aa07a2464b0325b3b9bcf9b",
+      "installedAt": "2026-02-07T13:09:39.209Z",
+      "updatedAt": "2026-02-07T13:09:39.209Z"
+    },
+    "dependency-upgrade": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/framework-migration/skills/dependency-upgrade/SKILL.md",
+      "skillFolderHash": "e0d83cf86841194b4c5eaab29b5299249fd7fa8f",
+      "installedAt": "2026-02-07T13:09:39.237Z",
+      "updatedAt": "2026-02-07T13:09:39.237Z"
+    },
+    "react-modernization": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/framework-migration/skills/react-modernization/SKILL.md",
+      "skillFolderHash": "00c0158db3a0c00652a0de22f5104817cc8a31aa",
+      "installedAt": "2026-02-07T13:09:39.265Z",
+      "updatedAt": "2026-02-07T13:09:39.265Z"
+    },
+    "postgresql-table-design": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/database-design/skills/postgresql/SKILL.md",
+      "skillFolderHash": "b4117b0efdd5b2b1d4dece79c1d99643f60e77b9",
+      "installedAt": "2026-02-07T13:09:39.293Z",
+      "updatedAt": "2026-02-07T13:09:39.293Z"
+    },
+    "attack-tree-construction": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/security-scanning/skills/attack-tree-construction/SKILL.md",
+      "skillFolderHash": "f02e3b2078790645d0108da48feb67d302ae08a7",
+      "installedAt": "2026-02-07T13:09:39.322Z",
+      "updatedAt": "2026-02-07T13:09:39.322Z"
+    },
+    "security-requirement-extraction": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/security-scanning/skills/security-requirement-extraction/SKILL.md",
+      "skillFolderHash": "bad8a7c0a2cea7d76869ecf59d6cd25e23191874",
+      "installedAt": "2026-02-07T13:09:39.348Z",
+      "updatedAt": "2026-02-07T13:09:39.348Z"
+    },
+    "changelog-automation": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/documentation-generation/skills/changelog-automation/SKILL.md",
+      "skillFolderHash": "47de0ae45e7ad602ccf1e45bf005105897b03994",
+      "installedAt": "2026-02-07T13:09:39.375Z",
+      "updatedAt": "2026-02-07T13:09:39.375Z"
+    },
+    "data-storytelling": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/business-analytics/skills/data-storytelling/SKILL.md",
+      "skillFolderHash": "c13da12736efd9a93fcf6d59cdda471cb7de79d8",
+      "installedAt": "2026-02-07T13:09:39.404Z",
+      "updatedAt": "2026-02-07T13:09:39.404Z"
+    },
+    "gdpr-data-handling": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/hr-legal-compliance/skills/gdpr-data-handling/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.486Z",
+      "updatedAt": "2026-02-07T13:09:39.486Z"
+    },
+    "async-python-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/async-python-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.525Z",
+      "updatedAt": "2026-02-07T13:09:39.525Z"
+    },
+    "python-anti-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-anti-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.563Z",
+      "updatedAt": "2026-02-07T13:09:39.563Z"
+    },
+    "python-background-jobs": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-background-jobs/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.603Z",
+      "updatedAt": "2026-02-07T13:09:39.603Z"
+    },
+    "python-code-style": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-code-style/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.642Z",
+      "updatedAt": "2026-02-07T13:09:39.642Z"
+    },
+    "python-configuration": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-configuration/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.684Z",
+      "updatedAt": "2026-02-07T13:09:39.684Z"
+    },
+    "python-design-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-design-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.726Z",
+      "updatedAt": "2026-02-07T13:09:39.726Z"
+    },
+    "python-error-handling": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-error-handling/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.764Z",
+      "updatedAt": "2026-02-07T13:09:39.764Z"
+    },
+    "python-observability": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-observability/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.802Z",
+      "updatedAt": "2026-02-07T13:09:39.802Z"
+    },
+    "python-packaging": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-packaging/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.840Z",
+      "updatedAt": "2026-02-07T13:09:39.840Z"
+    },
+    "python-project-structure": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-project-structure/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.916Z",
+      "updatedAt": "2026-02-07T13:09:39.916Z"
+    },
+    "python-resilience": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-resilience/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.957Z",
+      "updatedAt": "2026-02-07T13:09:39.957Z"
+    },
+    "python-resource-management": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-resource-management/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:39.998Z",
+      "updatedAt": "2026-02-07T13:09:39.998Z"
+    },
+    "python-testing-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-testing-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.039Z",
+      "updatedAt": "2026-02-07T13:09:40.039Z"
+    },
+    "python-type-safety": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/python-type-safety/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.078Z",
+      "updatedAt": "2026-02-07T13:09:40.078Z"
+    },
+    "uv-package-manager": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/python-development/skills/uv-package-manager/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.119Z",
+      "updatedAt": "2026-02-07T13:09:40.119Z"
+    },
+    "javascript-testing-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/javascript-typescript/skills/javascript-testing-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.159Z",
+      "updatedAt": "2026-02-07T13:09:40.159Z"
+    },
+    "modern-javascript-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/javascript-typescript/skills/modern-javascript-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.201Z",
+      "updatedAt": "2026-02-07T13:09:40.201Z"
+    },
+    "go-concurrency-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/systems-programming/skills/go-concurrency-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.281Z",
+      "updatedAt": "2026-02-07T13:09:40.281Z"
+    },
+    "rust-async-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/systems-programming/skills/rust-async-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.323Z",
+      "updatedAt": "2026-02-07T13:09:40.323Z"
+    },
+    "auth-implementation-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/developer-essentials/skills/auth-implementation-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.363Z",
+      "updatedAt": "2026-02-07T13:09:40.363Z"
+    },
+    "code-review-excellence": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/developer-essentials/skills/code-review-excellence/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.406Z",
+      "updatedAt": "2026-02-07T13:09:40.406Z"
+    },
+    "debugging-strategies": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/developer-essentials/skills/debugging-strategies/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.447Z",
+      "updatedAt": "2026-02-07T13:09:40.447Z"
+    },
+    "e2e-testing-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/developer-essentials/skills/e2e-testing-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.489Z",
+      "updatedAt": "2026-02-07T13:09:40.489Z"
+    },
+    "error-handling-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/developer-essentials/skills/error-handling-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.529Z",
+      "updatedAt": "2026-02-07T13:09:40.529Z"
+    },
+    "git-advanced-workflows": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/developer-essentials/skills/git-advanced-workflows/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.571Z",
+      "updatedAt": "2026-02-07T13:09:40.571Z"
+    },
+    "monorepo-management": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/developer-essentials/skills/monorepo-management/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.611Z",
+      "updatedAt": "2026-02-07T13:09:40.611Z"
+    },
+    "nx-workspace-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/developer-essentials/skills/nx-workspace-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.651Z",
+      "updatedAt": "2026-02-07T13:09:40.651Z"
+    },
+    "sql-optimization-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/developer-essentials/skills/sql-optimization-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.689Z",
+      "updatedAt": "2026-02-07T13:09:40.689Z"
+    },
+    "turborepo-caching": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/developer-essentials/skills/turborepo-caching/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.728Z",
+      "updatedAt": "2026-02-07T13:09:40.728Z"
+    },
+    "workflow-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/conductor/skills/workflow-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.770Z",
+      "updatedAt": "2026-02-07T13:09:40.770Z"
+    },
+    "accessibility-compliance": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/ui-design/skills/accessibility-compliance/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.808Z",
+      "updatedAt": "2026-02-07T13:09:40.808Z"
+    },
+    "design-system-patterns": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/ui-design/skills/design-system-patterns/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.848Z",
+      "updatedAt": "2026-02-07T13:09:40.848Z"
+    },
+    "interaction-design": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/ui-design/skills/interaction-design/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.888Z",
+      "updatedAt": "2026-02-07T13:09:40.888Z"
+    },
+    "responsive-design": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/ui-design/skills/responsive-design/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.928Z",
+      "updatedAt": "2026-02-07T13:09:40.928Z"
+    },
+    "visual-design-foundations": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/ui-design/skills/visual-design-foundations/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:40.967Z",
+      "updatedAt": "2026-02-07T13:09:40.967Z"
+    },
+    "web-component-design": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/wshobson/agents.git",
+      "skillPath": "plugins/ui-design/skills/web-component-design/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:09:41.008Z",
+      "updatedAt": "2026-02-07T13:09:41.008Z"
+    },
+    "nestjs-best-practices": {
+      "source": "kadajett/agent-nestjs-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/kadajett/agent-nestjs-skills.git",
+      "skillPath": "SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:10:01.923Z",
+      "updatedAt": "2026-02-07T13:10:01.923Z"
+    },
+    "content-modeling-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/sanity-io/agent-toolkit.git",
+      "skillPath": "skills/content-modeling-best-practices/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:33:18.001Z",
+      "updatedAt": "2026-02-07T13:33:18.001Z"
+    },
+    "sanity-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/sanity-io/agent-toolkit.git",
+      "skillPath": "skills/sanity-best-practices/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:33:18.044Z",
+      "updatedAt": "2026-02-07T13:33:18.044Z"
+    },
+    "seo-aeo-best-practices": {
+      "source": "sanity-io/agent-toolkit",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/sanity-io/agent-toolkit.git",
+      "skillPath": "skills/seo-aeo-best-practices/SKILL.md",
+      "skillFolderHash": "",
+      "installedAt": "2026-02-07T13:33:18.086Z",
+      "updatedAt": "2026-02-07T13:33:18.086Z"
+    }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "codex",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode"
+  ]
+}
